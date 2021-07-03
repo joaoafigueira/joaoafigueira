@@ -39,7 +39,6 @@
      <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a> 
 </p>
 
-<br/>
 
 <p align="center">
   <a>
@@ -47,10 +46,7 @@
     </a>
 </p>
 
-<br>
-
 ## 📊 My Github Stats
- <br/> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira" /></p>
  <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -58,7 +54,6 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira" />
 </p>
-<br/>
 <br/>
 
 

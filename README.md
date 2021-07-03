@@ -45,7 +45,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoafigueira&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
 ## 📊 My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira" /></p>
  <br>
@@ -56,13 +55,6 @@
 </p>
 <br/>
 
-
-## 🤝 Connect with me:
-<br>
-<p>
-<a href = "https://www.linkedin.com/in/joão-victor-alves-figueira/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/jaoafigueira/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
 
 ## 📱 Views and Followers
 <br>

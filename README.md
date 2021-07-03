@@ -60,15 +60,14 @@
 </p>
 <br/>
 <br/>
-<br/>
-##  🤝  Connect with me:
+
+
+## 🤝 Connect with me:
 <br>
 <p>
 <a href = "https://www.linkedin.com/in/joão-victor-alves-figueira/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/jaoafigueira/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-
-<br>
 
 ## 📱 Views and Followers
 <br>

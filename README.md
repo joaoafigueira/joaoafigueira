@@ -55,7 +55,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
+
 ## 🤝 Connect with me:
+
 <br>
 <p>
 <a href = "https://www.linkedin.com/in/joão-victor-alves-figueira/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

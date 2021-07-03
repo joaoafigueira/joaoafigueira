@@ -1,4 +1,4 @@
-<a href="#"><img width="80%" height="auto" src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/agFJkFJ.jpg" height="175px"/></a>
+<a href="#"><img width="80%" left="200px" height="auto" src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/agFJkFJ.jpg" height="175px"/></a>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm João Victor</h1>
 <h3 align="center">I'm a passionate Back-end Developer with a little knowledge in Front-end.</h3>

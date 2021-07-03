@@ -70,6 +70,8 @@
     <img src="https://komarev.com/ghpvc/?username=joaoafigueira">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/joaoafigueira?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira" />
 </p>

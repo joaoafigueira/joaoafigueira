@@ -52,15 +52,16 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/joaoafigueira/github-readme-stats"><img alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a href="https://github.com/joaoafigueira/github-readme-stats"><img alt="João's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafigueira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira" /></p>
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
- <a href="https://github.com/joaoafigueira/github-readme-stats"><img alt="João's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafigueira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira" /></p>
 <br/>
 <br/>
 

@@ -55,15 +55,15 @@
     
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira" /></p>
 
-  <br/>
+  <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira" /></p>
-<br/>
-<br/>
 <br>
-## 🤝  Connect with me:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira" /></p>
+<br>
+<br>
+<br>
+##🤝  Connect with me:
 <br>
 <p align="left">
 

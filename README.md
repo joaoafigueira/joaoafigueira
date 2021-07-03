@@ -39,8 +39,8 @@
      <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a> 
 </p>
 
-
-<p align="center">
+<br>
+<p align="left">
   <a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoafigueira&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -70,6 +70,6 @@
     <img src="https://komarev.com/ghpvc/?username=joaoafigueira">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/joaoafigueira?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira" />
 </p>

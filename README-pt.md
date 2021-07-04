@@ -12,8 +12,6 @@
 
    ## 🤖  Sobre mim  <img src="about.gif" width="38px">
 
-<br>
-
 - 🧐 Atualmente estou aprendendo  **Novas tecnologias em especifíco Data Science**;
 
 - 👯 Sempre estou procurando coloborar em **Projetos OpenSource**;
@@ -27,9 +25,6 @@
 <br>
 
 ## 🚀 Linguagens e ferramentas: <img src="love.gif" width="28px">
-
-
-<br>
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -45,29 +40,28 @@
 </p>
 
 <br>
+
 ##  📊 Meu github status
 
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira" /></p>
 <br>
 
 ## 🤝 Fale comigo:
 
-<br>
 <p>
 <a href = "https://www.linkedin.com/in/joão-victor-alves-figueira/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/jaoafigueira/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
+<br>
 
 ## 📱 Visitas e seguidores:
 
-<br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=joaoafigueira">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/joaoafigueira?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 <br>
 <br>

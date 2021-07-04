@@ -45,13 +45,6 @@
 </p>
 
 <br>
-<p align="left">
-  <a>
-        <img alt="João Victor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoafigueira&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
 ##  📊 Meu github status
 
 <br>

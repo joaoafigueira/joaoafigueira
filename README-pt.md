@@ -1,32 +1,32 @@
-# Select Language: **English**, [Portuguese](README-pt.md)
+# Select Language:  **Portuguese**, [English](README.md)
 
 
 
-<a href="#"><img width="100%" src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/agFJkFJ.jpg" height="400px"/></a>
+<a href="#"><img width="100%" src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/xYVxmDx%2520-%2520Imgur.jpg" height="400px"/></a>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm João Victor</h1>
-<h3 align="center">I'm a passionate Back-end developer with a little knowledge in Front-end.</h3>
+<h1 align="center">Olá<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, me chamo João Victor</h1>
+<h3 align="center">sou um apaixonado desenvolvedor Back-end com um pouquinho de conhecimento em Front-End</h3>
 
 
 <br>
 
-   ## 🤖  About me  <img src="about.gif" width="38px">
+   ## 🤖  Sobre mim  <img src="about.gif" width="38px">
 
 <br>
 
-- 🧐 I’m currently learning **New technologies in specifically data science**;
+- 🧐 Atualmente estou aprendendo  **Novas tecnologias em especifíco Data Science**;
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**;
+- 👯 Sempre estou procurando coloborar em **Projetos OpenSource**;
 
-- 👨‍💻 All of my projects are available at:  **[My Portfolio](https://github.com/joaoafigueira?tab=repositories)**;
+- 👨‍💻 Todos os meus projetos estão disponíveis em  **[Meu Portfolio](https://github.com/joaoafigueira?tab=repositories)**;
 
-- 📫 How to reach me: **joaofigueiraprog@gmail.com**;
+- 📫 Como me contatar: **joaofigueiraprog@gmail.com**;
 
-- ⚡ Fun fact: **I like automation and  usually run every afternoon.**
+- ⚡ Fatos interessantes: **Eu gosto de automação e corro todas as tardes.**
 
 <br>
 
-## 🚀 Languages and Tools: <img src="love.gif" width="28px">
+## 🚀 Linguagens e ferramentas: <img src="love.gif" width="28px">
 
 
 <br>
@@ -52,13 +52,13 @@
 </p>
 
 
-##  📊 My Github Stats
+##  📊 Meu github status
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira" /></p>
- <br>
+<br>
 
-## 🤝 Connect with me:
+## 🤝 Fale comigo:
 
 <br>
 <p>
@@ -67,7 +67,7 @@
 </p>
 
 
-## 📱 Views and Followers
+## 📱 Visitas e seguidores:
 
 <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">

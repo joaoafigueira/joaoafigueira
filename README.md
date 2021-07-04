@@ -12,8 +12,6 @@
 
    ## 🤖  About me  <img src="about.gif" width="38px">
 
-<br>
-
 - 🧐 I’m currently learning **New technologies in specifically data science**;
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**;
@@ -27,9 +25,6 @@
 <br>
 
 ## 🚀 Languages and Tools: <img src="love.gif" width="28px">
-
-
-<br>
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -49,22 +44,19 @@
 
 ##  📊 My Github Stats
 
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira" /></p>
  <br>
 
 ## 🤝 Connect with me:
 
-<br>
 <p>
 <a href = "https://www.linkedin.com/in/joão-victor-alves-figueira/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/jaoafigueira/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-
+<br>
 
 ## 📱 Views and Followers
 
-<br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=joaoafigueira">
 </a>

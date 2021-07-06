@@ -5,7 +5,7 @@
 <a href="#"><img width="100%" src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/xYVxmDx%2520-%2520Imgur.jpg" height="400px"/></a>
 
 <h1 align="center">Olá<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, me chamo João Victor</h1>
-<h3 align="center">sou um apaixonado desenvolvedor Full Stack</h3>
+<h3 align="center">sou um apaixonado Desenvolvedor Full Stack</h3>
 
 
 <br>

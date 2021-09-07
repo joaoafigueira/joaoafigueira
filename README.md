@@ -44,8 +44,8 @@
 ## 🚀 Languages and Tools: <img src="love.gif" width="28px">
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafigueira&show_icons=true&locale=en&layout=compact" alt="joaoafigueira"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoafigueira&show_icons=true&locale=en" alt="joaoafigueira"/>
    <br>
    <br>
   <b>Nota:</b> As linguagens mais usadas consiste somente em uma medida das minhas linguagens utilizados em código publico, não reflete em experiência ou habilidades.

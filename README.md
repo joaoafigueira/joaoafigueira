@@ -9,12 +9,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a> 
-       <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"></a>
+    <a href="https://kotlinlang.org"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+    <a href="https://developer.android.com/docs"><img src="https://img.icons8.com/fluency/48/000000/android-os.png"></a>    
+    <a href="https://www.oracle.com/br/database/"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></a>
+    
 </p>
 
 
@@ -28,7 +27,7 @@
 
    ## 🤖  About me  <img src="about.gif" width="38px">
 
-- 🧐 I’m currently learning **New technologies in specifically data science**;
+- 🧐 I’m currently learning **New technologies in specifically android framework**;
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**;
 

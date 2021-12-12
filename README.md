@@ -27,7 +27,7 @@
 
    ## 🤖  About me  <img src="about.gif" width="38px">
 
-- 🧐 I’m currently learning **New technologies in specifically android framework**;
+- 🧐 I’m currently learning **New technologies in specifically mobile**;
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**;
 

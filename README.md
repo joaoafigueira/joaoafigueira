@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm João Victor</h1>
-<h3 align="left">I'm a passionate Back-End Developer</h3>
+<h3 align="left">I'm Back-End Developer</h3>
 
 <br>
 <p align="left"> 

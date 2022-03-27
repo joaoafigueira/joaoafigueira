@@ -4,7 +4,7 @@
 
 <p align="center">
 	<strong>
-		<a href="https://www.linkedin.com/in/rodrigofbrito/">Linkedin</a>
+		<a href="https://www.linkedin.com/in/joão-victor-alves-figueira/">Linkedin</a>
 		•
 		<a href="https://www.instagram.com/jaoooaf/">Instagram</a>
 	</strong>

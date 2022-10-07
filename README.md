@@ -12,5 +12,5 @@
 
 - :brazil: Brazillian (Curitiba / PR)
 - :man_student: Studying BSc. Software Engineer at [FDI](https://www.faculdadesdaindustria.org.br)
-- :man_technologist: Java Developer Intern at [Meister Solutions](https://www.meister.solutions)
+- :man_technologist: .NET Backend developer at [IATec](https://iatec.com/)
 

@@ -11,6 +11,6 @@
 </p>
 
 - :brazil: Brazillian (Curitiba / PR)
-- :man_student: Studying BSc. Software Engineer at [FDI](https://www.faculdadesdaindustria.org.br)
+- :man_student: Studying BSc. Information Systems at [FIAP](https://www.fiap.com.br/)
 - :man_technologist: .NET developer at [IATec](https://iatec.com/)
 

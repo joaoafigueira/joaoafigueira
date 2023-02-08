@@ -6,7 +6,7 @@
 	<strong>
 		<a href="https://www.linkedin.com/in/joão-victor-alves-figueira/">Linkedin</a>
 		•
-		<a href="https://www.instagram.com/_victorjoaof/">Instagram</a>
+		<a href="https://www.instagram.com/soufigueirajoao/">Instagram</a>
 	</strong>
 </p>
 
